@@ -1,0 +1,213 @@
+{
+  "$schema": "https://zed.dev/schema/icon_themes/v0.2.0.json",
+  "name": "Zed Red Icons",
+  "author": "brad",
+  "themes": [
+    {
+      "name": "Zed Red Icons",
+      "appearance": "dark",
+      "directory_icons": {
+        "collapsed": "./icons/folder.svg",
+        "expanded": "./icons/folder-open.svg"
+      },
+      "chevron_icons": {
+        "collapsed": "./icons/chevron-right.svg",
+        "expanded": "./icons/chevron-down.svg"
+      },
+      "file_stems": {
+        "Makefile": "make",
+        "Dockerfile": "docker",
+        "README": "readme",
+        "LICENSE": "license",
+        "package.json": "nodejs",
+        "Cargo.toml": "rust",
+        "go.mod": "go"
+      },
+      "file_suffixes": {
+        "js": "javascript",
+        "ts": "typescript",
+        "jsx": "react",
+        "tsx": "react",
+        "py": "python",
+        "rs": "rust",
+        "go": "go",
+        "java": "java",
+        "cpp": "cpp",
+        "c": "c",
+        "h": "c",
+        "cs": "csharp",
+        "php": "php",
+        "rb": "ruby",
+        "swift": "swift",
+        "kt": "kotlin",
+        "html": "html",
+        "css": "css",
+        "scss": "sass",
+        "sass": "sass",
+        "less": "less",
+        "json": "json",
+        "xml": "xml",
+        "yaml": "yaml",
+        "yml": "yaml",
+        "toml": "toml",
+        "md": "markdown",
+        "txt": "text",
+        "log": "log",
+        "pdf": "pdf",
+        "zip": "archive",
+        "tar": "archive",
+        "gz": "archive",
+        "7z": "archive",
+        "png": "image",
+        "jpg": "image",
+        "jpeg": "image",
+        "gif": "image",
+        "svg": "image",
+        "webp": "image",
+        "mp4": "video",
+        "avi": "video",
+        "mov": "video",
+        "mkv": "video",
+        "mp3": "audio",
+        "wav": "audio",
+        "flac": "audio",
+        "ogg": "audio",
+        "env": "config",
+        "ini": "config",
+        "conf": "config",
+        "cfg": "config",
+        "gitignore": "git",
+        "gitattributes": "git",
+        "sh": "shell",
+        "bash": "shell",
+        "zsh": "shell",
+        "fish": "shell",
+        "sql": "database",
+        "db": "database",
+        "sqlite": "database"
+      },
+      "file_icons": {
+        "default": {
+          "path": "./icons/file.svg"
+        },
+        "javascript": {
+          "path": "./icons/javascript.svg"
+        },
+        "typescript": {
+          "path": "./icons/typescript.svg"
+        },
+        "react": {
+          "path": "./icons/react.svg"
+        },
+        "python": {
+          "path": "./icons/python.svg"
+        },
+        "rust": {
+          "path": "./icons/rust.svg"
+        },
+        "go": {
+          "path": "./icons/go.svg"
+        },
+        "java": {
+          "path": "./icons/java.svg"
+        },
+        "cpp": {
+          "path": "./icons/cpp.svg"
+        },
+        "c": {
+          "path": "./icons/c.svg"
+        },
+        "csharp": {
+          "path": "./icons/csharp.svg"
+        },
+        "php": {
+          "path": "./icons/php.svg"
+        },
+        "ruby": {
+          "path": "./icons/ruby.svg"
+        },
+        "swift": {
+          "path": "./icons/swift.svg"
+        },
+        "kotlin": {
+          "path": "./icons/kotlin.svg"
+        },
+        "html": {
+          "path": "./icons/html.svg"
+        },
+        "css": {
+          "path": "./icons/css.svg"
+        },
+        "sass": {
+          "path": "./icons/sass.svg"
+        },
+        "less": {
+          "path": "./icons/less.svg"
+        },
+        "json": {
+          "path": "./icons/json.svg"
+        },
+        "xml": {
+          "path": "./icons/xml.svg"
+        },
+        "yaml": {
+          "path": "./icons/yaml.svg"
+        },
+        "toml": {
+          "path": "./icons/toml.svg"
+        },
+        "markdown": {
+          "path": "./icons/markdown.svg"
+        },
+        "text": {
+          "path": "./icons/text.svg"
+        },
+        "log": {
+          "path": "./icons/log.svg"
+        },
+        "pdf": {
+          "path": "./icons/pdf.svg"
+        },
+        "archive": {
+          "path": "./icons/archive.svg"
+        },
+        "image": {
+          "path": "./icons/image.svg"
+        },
+        "video": {
+          "path": "./icons/video.svg"
+        },
+        "audio": {
+          "path": "./icons/audio.svg"
+        },
+        "config": {
+          "path": "./icons/config.svg"
+        },
+        "git": {
+          "path": "./icons/git.svg"
+        },
+        "shell": {
+          "path": "./icons/shell.svg"
+        },
+        "database": {
+          "path": "./icons/database.svg"
+        },
+        "make": {
+          "path": "./icons/make.svg"
+        },
+        "docker": {
+          "path": "./icons/docker.svg"
+        },
+        "readme": {
+          "path": "./icons/readme.svg"
+        },
+        "license": {
+          "path": "./icons/license.svg"
+        },
+        "nodejs": {
+          "path": "./icons/nodejs.svg"
+        }
+      }
+    }
+  ]
+}
